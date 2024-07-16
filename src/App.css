@@ -1,0 +1,17 @@
+/* src/App.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e2f0ff;
+  }
+  
+  h1, h2, h3{
+    color: #627a91;
+    text-shadow:1px 1px rgba(0, 0, 0, 0.37);
+  }
+  
+  div {
+    text-align: center;
+  }
+  
